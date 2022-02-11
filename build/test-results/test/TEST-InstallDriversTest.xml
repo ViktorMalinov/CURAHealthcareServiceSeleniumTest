@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InstallDriversTest" tests="3" skipped="3" failures="0" errors="0" timestamp="2022-02-11T13:41:59" hostname="PC2021-1" time="0.001">
+  <properties/>
+  <testcase name="chromeSession()" classname="InstallDriversTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="ieSession()" classname="InstallDriversTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="edgeSession()" classname="InstallDriversTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
